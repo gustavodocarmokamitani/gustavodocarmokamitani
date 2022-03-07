@@ -24,5 +24,5 @@
 </p>
   
 <p align="center">
- <a href="https://www.linkedin.com/in/gustavo-kamitani" target="_blank"></a>           
+ <a href="https://www.linkedin.com/in/gustavo-kamitani" target="_blank">Projects</a>           
 </p>
