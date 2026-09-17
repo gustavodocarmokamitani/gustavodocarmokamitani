@@ -61,13 +61,10 @@ CST em **Análise e Desenvolvimento de Sistemas** (2016–2021)
 
 ---
 
-## 📊 GitHub Analytics  
+### 📊 Estatísticas
 
 <p align="center">
-  <a href="https://github.com/gustavodocarmokamitani">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavodocarmokamitani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodocarmokamitani&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=gustavodocarmokamitani&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
